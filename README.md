@@ -1,7 +1,7 @@
 # Cheese Calculator
 
 -Link:
-[CheeseCalculator](https://cheese-calculator.netlify.app/){:target="_blank"}
+[CheeseCalculator](https://cheese-calculator.netlify.app/)
 
 ## Preview
 ![](src/assets/preview.png)
