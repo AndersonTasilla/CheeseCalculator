@@ -120,7 +120,7 @@ function Home() {
             </div>
           </div>
         </div>
-        <div className="hidden lg:flex fondo2 w-full lg:w-1/2 relative text-center pt-24 px-5 rounded-bl-[90px] rounded-r-2xl bg-gray-800 text-white">
+        <div className="hidden lg:flex fondo2 w-[50%] relative text-center pt-24 px-10 rounded-bl-[90px] rounded-r-2xl bg-gray-800 text-white">
           <div>
             <div className="flex items-center justify-center">
               <img className="" src={img1} alt="Illustration" />
